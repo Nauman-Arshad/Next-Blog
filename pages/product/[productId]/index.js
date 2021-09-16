@@ -1,6 +1,6 @@
 import React from 'react'
 import { useRouter } from 'next/dist/client/router'
-import styles from '../../styles/Home.module.css'
+import styles from '../../../styles/Home.module.css'
 const ProductDetail = () => {
     const router =useRouter()
    const productId= router.query.productId
