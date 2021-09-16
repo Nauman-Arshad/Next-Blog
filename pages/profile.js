@@ -5,7 +5,7 @@ const profile = () => {
         <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
              <div className="md:flex">
                 <div className="md:flex-shrink-0">
-                    <image className="h-48 w-full object-cover md:h-full md:w-48" src="public/books.jpg" alt="Man looking at item at a store" />
+                    <img className="h-48 w-full object-cover md:h-full md:w-48" src="/books.jpg" alt="Man looking at item at a store" />
                     </div>
     <div className="p-8">
       <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Case study</div>
